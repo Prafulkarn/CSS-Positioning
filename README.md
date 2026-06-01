@@ -1,6 +1,6 @@
 # CSS Positioning Notes
 
-CSS `position` controls how an element is placed in the layout. It works together with `top`, `right`, `bottom`, `left`, and `z-index`.
+CSS `position` controls how elements are placed in the layout. It works together with `top`, `right`, `bottom`, `left`, and `z-index`.
 
 ## 1. `static`
 
