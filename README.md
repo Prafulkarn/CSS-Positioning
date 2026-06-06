@@ -1,4 +1,4 @@
-# CSS Positioning Notes
+# Cascading Style Sheet(CSS) Positioning Notes
 
 CSS `position` controls how elements are placed in the layout. It works together with `top`, `right`, `bottom`, `left`, and `z-index`.
 
